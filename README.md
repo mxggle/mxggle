@@ -25,6 +25,8 @@ Current focus areas:
 
 ## 🔥 Featured Projects
 
+- 🎬 [**subtitle-learning-lab**](https://github.com/mxggle/subtitle-learning-lab) Extract, merge, and prepare bilingual subtitles for language learning.
+- 🧩 [**katachi**](https://github.com/mxggle/katachi) Project Karachi/Katachi — shape-focused utility project.
 - 🧠 [**Lingo-context**](https://github.com/mxggle/Lingo-context) AI-powered context, grammar, and pronunciation support.
 - ✒️ [**moji-fu**](https://github.com/mxggle/moji-fu) Capture and apply web font styles in one click.
 - 🔁 [**ModernABLoopPlayer**](https://github.com/mxggle/ModernABLoopPlayer) A-B loop player with recording, waveform control, and AI transcripts.
