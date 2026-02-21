@@ -30,12 +30,16 @@ Current focus areas:
 - 🧠 [**Lingo-context**](https://github.com/mxggle/Lingo-context) AI-powered context, grammar, and pronunciation support.
 - ✒️ [**moji-fu**](https://github.com/mxggle/moji-fu) Capture and apply web font styles in one click.
 - 🔁 [**ModernABLoopPlayer**](https://github.com/mxggle/ModernABLoopPlayer) A-B loop player with recording, waveform control, and AI transcripts.
-- 🎴 [**anki-jlpt-n2-grammar-example-sentences**](https://github.com/mxggle/anki-jlpt-n2-grammar-example-sentences) JLPT N2 grammar Anki deck.
-- 🎴 [**anki-jlpt-n1-grammar-example-sentences**](https://github.com/mxggle/anki-jlpt-n1-grammar-example-sentences) JLPT N1 grammar Anki deck.
 - ⚔️ [**kanji-kaisen**](https://github.com/mxggle/kanji-kaisen) Gamified Kanji learning with SRS and stroke recognition.
 - 🖌️ [**kanji-recognizer**](https://github.com/mxggle/kanji-recognizer) Kanji recognition practice tool.
 - 📰 [**personal-news-agent**](https://github.com/mxggle/personal-news-agent) Auto-fetches and summarizes daily news briefs.
 
+
+
+## 📚 Learning Materials I Built
+
+- 🎴 [**anki-jlpt-n2-grammar-example-sentences**](https://github.com/mxggle/anki-jlpt-n2-grammar-example-sentences) JLPT N2 grammar Anki deck with examples and audio support.
+- 🎴 [**anki-jlpt-n1-grammar-example-sentences**](https://github.com/mxggle/anki-jlpt-n1-grammar-example-sentences) JLPT N1 grammar Anki deck with examples and audio support.
 
 
 ## 🌍 Languages
