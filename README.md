@@ -38,6 +38,7 @@ Current focus areas:
 
 - 🎴 [**anki-jlpt-n2-grammar-example-sentences**](https://github.com/mxggle/anki-jlpt-n2-grammar-example-sentences) JLPT N2 grammar Anki deck with examples and audio support.
 - 🎴 [**anki-jlpt-n1-grammar-example-sentences**](https://github.com/mxggle/anki-jlpt-n1-grammar-example-sentences) JLPT N1 grammar Anki deck with examples and audio support.
+- 🎴 [**Shin Kanzen Master N3 Grammar, Sentence Deck**](https://ankiweb.net/shared/info/443240925) N3 grammar sentence deck based on Shin Kanzen Master, with structured lesson coverage and audio.
 
 
 ## 🌍 Languages
