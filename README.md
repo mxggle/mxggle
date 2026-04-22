@@ -24,13 +24,12 @@ Current focus areas:
 - 🧪 Turning small AI experiments into daily-use products
 
 ## 🔥 Featured Projects
-
+- ⚔️ [**kanji-kaisen**](https://github.com/mxggle/kanji-kaisen) Gamified Kanji learning with SRS and stroke recognition.
+- 🧩 [**katachi**](https://katachi.harrysui.me/) Master Japanese conjugations
 - 🔁 [**ModernABLoopPlayer**](https://github.com/mxggle/ModernABLoopPlayer) A-B loop player with recording, waveform control, and AI transcripts.
 - 🧠 [**Lingo-context**](https://github.com/mxggle/Lingo-context) AI-powered context, grammar, and pronunciation support.
 - ✒️ [**moji-fu**](https://github.com/mxggle/moji-fu) Capture and apply web font styles in one click.
 - 🎬 [**subtitle-pipeline**](https://github.com/mxggle/subtitle-pipeline) Extract, merge, and prepare bilingual subtitles for language learning.
-- 🧩 [**katachi**](https://github.com/mxggle/katachi) Project Karachi/Katachi — shape-focused utility project.
-- ⚔️ [**kanji-kaisen**](https://github.com/mxggle/kanji-kaisen) Gamified Kanji learning with SRS and stroke recognition.
 - 🖌️ [**kanji-recognizer**](https://github.com/mxggle/kanji-recognizer) Kanji recognition practice tool.
 
 
