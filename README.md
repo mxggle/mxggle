@@ -24,13 +24,13 @@ Current focus areas:
 - 🧪 Turning small AI experiments into daily-use products
 
 ## 🔥 Featured Projects
-- ⚔️ [**kanji-kaisen**](https://kanji-kaisen.harrysui.me) Gamified Kanji learning with SRS and stroke recognition.
-- 🧩 [**katachi**](https://katachi.harrysui.me/) Master Japanese conjugations
-- 🔁 [**ModernABLoopPlayer**](https://github.com/mxggle/ModernABLoopPlayer) A-B loop player with recording, waveform control, and AI transcripts.
-- 🧠 [**Lingo-context**](https://github.com/mxggle/Lingo-context) AI-powered context, grammar, and pronunciation support.
-- ✒️ [**moji-fu**](https://github.com/mxggle/moji-fu) Capture and apply web font styles in one click.
-- 🎬 [**subtitle-pipeline**](https://github.com/mxggle/subtitle-pipeline) Extract, merge, and prepare bilingual subtitles for language learning.
-- 🖌️ [**kanji-recognizer**](https://github.com/mxggle/kanji-recognizer) Kanji recognition practice tool.
+- ⚔️ [**kanji-kaisen**](https://kanji-kaisen.harrysui.me) A gamified kanji learning app that combines spaced repetition with stroke recognition to make daily practice engaging and effective.
+- 🧩 [**katachi**](https://katachi.harrysui.me/) A polished Japanese conjugation trainer built to help learners master core grammar forms through focused, repeatable practice.
+- 🔁 [**lingoloop**](https://github.com/mxggle/lingoloop) A modern loop player for language learners that supports precise A-B repeat, shadowing, and recording across local media and YouTube.
+- 🧠 [**Lingo-context**](https://github.com/mxggle/Lingo-context) A Chrome extension that delivers instant AI-powered context, grammar explanations, and pronunciation support while you read.
+- ✒️ [**moji-fu**](https://github.com/mxggle/moji-fu) A lightweight Chrome extension for capturing and reusing web font styles with a single click.
+- 🎬 [**subtitle-pipeline**](https://github.com/mxggle/subtitle-pipeline) A subtitle processing toolkit for extracting, merging, and preparing bilingual subtitles for language learning workflows.
+- 🖌️ [**kanji-recognizer**](https://github.com/mxggle/kanji-recognizer) A lightweight JavaScript library for kanji stroke recognition and validation built for interactive writing practice.
 
 
 ## 📚 Learning Materials I Built
