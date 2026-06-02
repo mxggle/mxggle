@@ -24,6 +24,7 @@ Current focus areas:
 - 🧪 Turning small AI experiments into daily-use products
 
 ## 🔥 Featured Projects
+- ⏱️ [**Yolo**](https://github.com/mxggle/yolo) A local-first desktop todo and time tracking app that turns daily tasks into accurate time records, built with Tauri, React, TypeScript, and SQLite.
 - ⚔️ [**kanji-kaisen**](https://kanji-kaisen.harrysui.me) A gamified kanji learning app that combines spaced repetition with stroke recognition to make daily practice engaging and effective.
 - 🧩 [**katachi**](https://katachi.harrysui.me/) A polished Japanese conjugation trainer built to help learners master core grammar forms through focused, repeatable practice.
 - 🔁 [**lingoloop**](https://github.com/mxggle/lingoloop) A modern loop player for language learners that supports precise A-B repeat, shadowing, and recording across local media and YouTube.
