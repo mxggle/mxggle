@@ -30,8 +30,6 @@ Current focus areas:
 - 🔁 [**lingoloop**](https://github.com/mxggle/lingoloop) A modern loop player for language learners that supports precise A-B repeat, shadowing, and recording across local media and YouTube.
 - 🧠 [**Lingo-context**](https://github.com/mxggle/Lingo-context) A Chrome extension that delivers instant AI-powered context, grammar explanations, and pronunciation support while you read.
 - ✒️ [**moji-fu**](https://github.com/mxggle/moji-fu) A lightweight Chrome extension for capturing and reusing web font styles with a single click.
-- 🎬 [**subtitle-pipeline**](https://github.com/mxggle/subtitle-pipeline) A subtitle processing toolkit for extracting, merging, and preparing bilingual subtitles for language learning workflows.
-- 🖌️ [**kanji-recognizer**](https://github.com/mxggle/kanji-recognizer) A lightweight JavaScript library for kanji stroke recognition and validation built for interactive writing practice.
 
 
 ## 📚 Learning Materials I Built
