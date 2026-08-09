@@ -29,7 +29,6 @@ Current focus areas:
 - 🎹 [**KeyChord**](https://github.com/mxggle/key-chord) A fast native macOS menu-bar app for global hotkey app switching and window toggling without Accessibility permissions.
 - ⚔️ [**kanji-kaisen**](https://kanji-kaisen.harrysui.me) A gamified kanji learning app that combines spaced repetition with stroke recognition to make daily practice engaging and effective.
 - 🧩 [**katachi**](https://katachi.harrysui.me/) A polished Japanese conjugation trainer built to help learners master core grammar forms through focused, repeatable practice.
-- 🧠 [**Lingo-context**](https://github.com/mxggle/Lingo-context) A Chrome extension that delivers instant AI-powered context, grammar explanations, and pronunciation support while you read.
 - ✒️ [**moji-fu**](https://github.com/mxggle/moji-fu) A lightweight Chrome extension for capturing and reusing web font styles with a single click.
 
 
