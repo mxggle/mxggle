@@ -15,6 +15,8 @@ Building small, practical products at the intersection of **AI × Language Learn
 
 - ⏱️ **[Yolo](https://github.com/mxggle/yolo)** — AI-native desktop app that turns tasks into time records, so you always know where your day went.
   <br><sub>🇯🇵 タスクをそのまま時間記録に変える AI ネイティブなデスクトップアプリ。1日の使い道が一目でわかる。</sub>
+- 🔍 **[PhraseLens](https://github.com/mxggle/phrase-lens)** — Native macOS AI language workspace and in-context translation assistant with Vision OCR, TTS, and multi-model support.
+  <br><sub>🇯🇵 選択テキストの即時翻訳・OCR・要約・音声合成に対応した、ネイティブ macOS 向け AI 語学ワークスペース。</sub>
 
 **🎌 Language Learning ・ 語学学習**
 
