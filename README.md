@@ -22,7 +22,7 @@ Building small, practical products at the intersection of **AI × Language Learn
 
 - 🔁 **[Pawcast](https://github.com/mxggle/pawcast)** — Loop player for language learners: precise A‑B repeat, shadowing, and recording across local media and YouTube.
   <br><sub>🇯🇵 語学学習者向けループプレーヤー。精密な A‑B リピート、シャドーイング、録音に対応（ローカル動画・YouTube）。</sub>
-- ⚔️ **[kanji-kaisen](https://kanji-kaisen.harrysui.me)** — Gamified kanji learning combining spaced repetition with stroke recognition.
+- ⚔️ **[kanji-kaisen](https://kanji-kaisen.harrysui.me/learn)** — Gamified kanji learning combining spaced repetition with stroke recognition.
   <br><sub>🇯🇵 間隔反復と筆順認識を組み合わせた、ゲーム感覚の漢字学習アプリ。</sub>
 - 🧩 **[katachi](https://katachi.harrysui.me/)** — Japanese conjugation trainer for mastering core grammar forms through focused practice.
   <br><sub>🇯🇵 日本語の活用形を集中的な反復練習でマスターするトレーナー。</sub>
