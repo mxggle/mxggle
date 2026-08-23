@@ -49,7 +49,7 @@ Building small, practical products at the intersection of **AI × Language Learn
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxggle/mxggle/main/assets/stats-dark.svg">
-  <img src="https://raw.githubusercontent.com/mxggle/mxggle/main/assets/stats-light.svg" alt="1,597 contributions in 2026 · 32 week streak · 31 new projects shipped">
+  <img src="https://raw.githubusercontent.com/mxggle/mxggle/main/assets/stats-light.svg" alt="GitHub shipping stats: contributions, week streak and new projects this year">
 </picture>
 
 <picture>
