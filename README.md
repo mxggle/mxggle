@@ -34,16 +34,13 @@ Building small, practical products at the intersection of **AI × Language Learn
 - ✒️ **[moji-fu](https://github.com/mxggle/moji-fu)** — Lightweight Chrome extension for capturing and reusing web font styles in one click.
   <br><sub>🇯🇵 ワンクリックで Web フォントのスタイルを取得・再利用できる軽量 Chrome 拡張。</sub>
 
-<details>
-<summary>🎴 <b>Learning materials I built ・ 自作の学習教材</b></summary>
+**🎴 Learning materials I built ・ 自作の学習教材**
 
 - [**JLPT N2 Grammar Deck**](https://github.com/mxggle/anki-jlpt-n2-grammar-example-sentences) — Anki deck with example sentences and audio.
 - [**JLPT N1 Grammar Deck**](https://github.com/mxggle/anki-jlpt-n1-grammar-example-sentences) — Anki deck with example sentences and audio.
 - [**Shin Kanzen Master N3 Grammar**](https://ankiweb.net/shared/info/443240925) — Sentence deck with structured lesson coverage and audio.
 
 <sub>🇯🇵 JLPT N1・N2・N3 向けの Anki デッキ。例文と音声付き、レッスン単位で構成。</sub>
-
-</details>
 
 ## 📊 Shipping ・ アウトプット
 
