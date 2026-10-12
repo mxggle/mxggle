@@ -1,4 +1,4 @@
-# Hi, I'm Shui Zhenyang👋
+# Hi, I'm Harry👋
 
 **Senior Front-end Engineer** · 7+ years · Tokyo 🇯🇵<br>
 Building small, practical products at the intersection of **AI × Language Learning × Developer Tools**.<br>
