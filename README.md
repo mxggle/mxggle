@@ -11,28 +11,23 @@ Building small, practical products at the intersection of **AI × Language Learn
 
 ## 🔥 Featured Projects ・ 主なプロジェクト
 
-**🤖 Applied AI ・ 応用 AI**
+**🎌 Language Learning ・ 語学学習** — all at [nihongo.day](https://nihongo.day/)
 
-- ⏱️ **[Yolo](https://yolo.harrysui.me/)** — AI-native desktop app that turns tasks into time records, so you always know where your day went.
-  <br><sub>🇯🇵 タスクをそのまま時間記録に変える AI ネイティブなデスクトップアプリ。1日の使い道が一目でわかる。</sub>
-- 🔍 **[PhraseLens](https://mxggle.github.io/phrase-lens)** — Native macOS AI language workspace and in-context translation assistant with Vision OCR, TTS, and multi-model support.
-  <br><sub>🇯🇵 選択テキストの即時翻訳・OCR・要約・音声合成に対応した、ネイティブ macOS 向け AI 語学ワークスペース。</sub>
-
-**🎌 Language Learning ・ 語学学習**
-
-- 🔁 **[Pawcast](https://github.com/mxggle/pawcast)** — Loop player for language learners: precise A‑B repeat, shadowing, and recording across local media and YouTube.
-  <br><sub>🇯🇵 語学学習者向けループプレーヤー。精密な A‑B リピート、シャドーイング、録音に対応（ローカル動画・YouTube）。</sub>
-- ⚔️ **[kanji-kaisen](https://kanji-kaisen.harrysui.me/learn)** — Gamified kanji learning combining spaced repetition with stroke recognition.
-  <br><sub>🇯🇵 間隔反復と筆順認識を組み合わせた、ゲーム感覚の漢字学習アプリ。</sub>
-- 🧩 **[katachi](https://katachi.harrysui.me/)** — Japanese conjugation trainer for mastering core grammar forms through focused practice.
+- 🧩 **[Katachi](https://katachi.nihongo.day/)** — Japanese conjugation trainer for mastering core grammar forms through focused practice.
   <br><sub>🇯🇵 日本語の活用形を集中的な反復練習でマスターするトレーナー。</sub>
+- 🎧 **[Shadowing](https://shadowing.nihongo.day/)** — Desktop player for repeat listening and shadowing your own audio: A‑B loops, sentence-by-sentence practice, recording, and transcription. macOS and Windows.
+  <br><sub>🇯🇵 手持ちの音声で聞き込みとシャドーイングをするデスクトップアプリ。A‑B リピート、文ごとの練習、録音、文字起こしに対応（macOS・Windows）。</sub>
+- ⚔️ **[kanji-kaisen](https://kanji-kaisen.nihongo.day/learn)** — Gamified kanji learning combining spaced repetition with stroke recognition.
+  <br><sub>🇯🇵 間隔反復と筆順認識を組み合わせた、ゲーム感覚の漢字学習アプリ。</sub>
+- 🏠 **[Nichijō](https://nichijo.nihongo.day/)** — What's this called in Japanese? One everyday object or action at a time, with its name and a phrase you can use.
+  <br><sub>🇯🇵 「これ、日本語で何ていう？」身近なモノや動作を一つずつ、名前と使える表現で紹介。</sub>
+- 🔍 **[PhraseLens](https://phrase-lens.nihongo.day/)** — Native macOS AI language workspace and in-context translation assistant with Vision OCR, TTS, and multi-model support.
+  <br><sub>🇯🇵 選択テキストの即時翻訳・OCR・要約・音声合成に対応した、ネイティブ macOS 向け AI 語学ワークスペース。</sub>
 
 **🛠️ Developer Tools ・ 開発者ツール**
 
 - 🎹 **[KeyChord](https://github.com/mxggle/key-chord)** — Native macOS menu-bar app for global hotkey app switching, without Accessibility permissions.
   <br><sub>🇯🇵 アクセシビリティ権限なしでグローバルホットキーによるアプリ切替ができる macOS メニューバーアプリ。</sub>
-- ✒️ **[moji-fu](https://github.com/mxggle/moji-fu)** — Lightweight Chrome extension for capturing and reusing web font styles in one click.
-  <br><sub>🇯🇵 ワンクリックで Web フォントのスタイルを取得・再利用できる軽量 Chrome 拡張。</sub>
 
 **🎴 Learning materials I built ・ 自作の学習教材**
 
