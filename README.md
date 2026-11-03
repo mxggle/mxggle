@@ -21,6 +21,8 @@ Building small, practical products at the intersection of **AI × Language Learn
   <br><sub>🇯🇵 間隔反復と筆順認識を組み合わせた、ゲーム感覚の漢字学習アプリ。</sub>
 - 🏠 **[Nichijō](https://nichijo.nihongo.day/)** — What's this called in Japanese? One everyday object or action at a time, with its name and a phrase you can use.
   <br><sub>🇯🇵 「これ、日本語で何ていう？」身近なモノや動作を一つずつ、名前と使える表現で紹介。</sub>
+- 🎬 **[Captionary](https://captionary.nihongo.day/)** — Free Chrome extension for learning languages from YouTube, Netflix and Apple TV+: dual subtitles, phrase look-up, a word list, and an AI tutor you choose.
+  <br><sub>🇯🇵 YouTube・Netflix・Apple TV+ で語学学習ができる無料の Chrome 拡張。二言語字幕、フレーズ検索、単語帳、好きな AI を選べる AI チューター。</sub>
 - 🔍 **[PhraseLens](https://phrase-lens.nihongo.day/)** — Native macOS AI language workspace and in-context translation assistant with Vision OCR, TTS, and multi-model support.
   <br><sub>🇯🇵 選択テキストの即時翻訳・OCR・要約・音声合成に対応した、ネイティブ macOS 向け AI 語学ワークスペース。</sub>
 
